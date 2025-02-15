@@ -1,4 +1,4 @@
-# NetworkResponse Retrofit adapter
+# NetworkResponse Retrofit adapter 
 
 [![Build Status](https://github.com/haroldadmin/networkresponseadapter/workflows/CI/badge.svg)](https://github.com/haroldadmin/networkresponseadapter/actions)
 
